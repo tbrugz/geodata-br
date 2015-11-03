@@ -1,53 +1,55 @@
-
+﻿
 Geodata BR - Brasil
 ===================
 
-Este projeto cont�m arquivos [Geojson](http://geojson.org/) com os per�metros
-dos munic�pios brasileiros dividido por estado
+Este projeto contém arquivos [Geojson](http://geojson.org/) com os perímetros
+dos municípios brasileiros dividido por estado
 
 
-### Regi�o Norte
-* AC - [geojson/geojs-12-mun.json](geojson/geojs-12-mun.json)
-* AM - [geojson/geojs-13-mun.json](geojson/geojs-13-mun.json)
-* PA - [geojson/geojs-15-mun.json](geojson/geojs-15-mun.json)
-* RO - [geojson/geojs-11-mun.json](geojson/geojs-11-mun.json)
-* RR - [geojson/geojs-14-mun.json](geojson/geojs-14-mun.json)
-* TO - [geojson/geojs-17-mun.json](geojson/geojs-17-mun.json)
+### Região Norte
+* AC / Acre - [geojson/geojs-12-mun.json](geojson/geojs-12-mun.json)
+* AM / Amazonas - [geojson/geojs-13-mun.json](geojson/geojs-13-mun.json)
+* AP / Amapá - [geojson/geojs-16-mun.json](geojson/geojs-16-mun.json)
+* PA / Pará  - [geojson/geojs-15-mun.json](geojson/geojs-15-mun.json)
+* RO / Rondônia - [geojson/geojs-11-mun.json](geojson/geojs-11-mun.json)
+* RR / Roraima - [geojson/geojs-14-mun.json](geojson/geojs-14-mun.json)
+* TO / Tocantins - [geojson/geojs-17-mun.json](geojson/geojs-17-mun.json)
 
 
-### Regi�o Nordeste
-* AL - [geojson/geojs-27-mun.json](geojson/geojs-27-mun.json)
-* BA - [geojson/geojs-29-mun.json](geojson/geojs-29-mun.json)
-* CE - [geojson/geojs-23-mun.json](geojson/geojs-23-mun.json)
-* MA - [geojson/geojs-21-mun.json](geojson/geojs-21-mun.json)
-* PB - [geojson/geojs-25-mun.json](geojson/geojs-25-mun.json)
-* PE - [geojson/geojs-26-mun.json](geojson/geojs-26-mun.json)
-* PI - [geojson/geojs-22-mun.json](geojson/geojs-22-mun.json)
-* RN - [geojson/geojs-24-mun.json](geojson/geojs-24-mun.json)
-* SE - [geojson/geojs-28-mun.json](geojson/geojs-28-mun.json)
+### Região Nordeste
+* AL / Alagoas - [geojson/geojs-27-mun.json](geojson/geojs-27-mun.json)
+* BA / Bahia - [geojson/geojs-29-mun.json](geojson/geojs-29-mun.json)
+* CE / Ceará - [geojson/geojs-23-mun.json](geojson/geojs-23-mun.json)
+* MA / Maranhão - [geojson/geojs-21-mun.json](geojson/geojs-21-mun.json)
+* PB / Paraíba - [geojson/geojs-25-mun.json](geojson/geojs-25-mun.json)
+* PE / Pernambuco - [geojson/geojs-26-mun.json](geojson/geojs-26-mun.json)
+* PI / Piauí - [geojson/geojs-22-mun.json](geojson/geojs-22-mun.json)
+* RN / Rio Grande do Norte - [geojson/geojs-24-mun.json](geojson/geojs-24-mun.json)
+* SE / Sergipe - [geojson/geojs-28-mun.json](geojson/geojs-28-mun.json)
 
 
-### Regi�o Sudeste
-* ES - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
-* MG - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
-* RJ - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
-* SP - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
+### Região Sudeste
+* ES / Espíriro Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
+* MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
+* RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
+* SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
 
 
-### Regi�o Sul
-* PR - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
-* RS - [geojson/geojs-43-mun.json](geojson/geojs-43-mun.json)
-* SC - [geojson/geojs-42-mun.json](geojson/geojs-42-mun.json)
+### Região Sul
+* PR / Paraná - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
+* RS / Rio Grande do Sul - [geojson/geojs-43-mun.json](geojson/geojs-43-mun.json)
+* SC / Santa Catarina - [geojson/geojs-42-mun.json](geojson/geojs-42-mun.json)
 
 
-### Regi�o Centro-Oeste
-* GO - [geojson/geojs-52-mun.json](geojson/geojs-52-mun.json)
-* MT - [geojson/geojs-51-mun.json](geojson/geojs-51-mun.json)
-* MS - [geojson/geojs-50-mun.json](geojson/geojs-50-mun.json)
+### Região Centro-Oeste
+* DF / Distrito Federal - [geojson/geojs-53-mun.json](geojson/geojs-53-mun.json) 
+* GO / Goiás - [geojson/geojs-52-mun.json](geojson/geojs-52-mun.json)
+* MT / Mato Grosso - [geojson/geojs-51-mun.json](geojson/geojs-51-mun.json)
+* MS / Mato Grosso do Sul - [geojson/geojs-50-mun.json](geojson/geojs-50-mun.json)
 
 
 ### Brasil
-* Brasil - [geojson/geojs-100-mun.json](geojson/geojs-100-mun.json)
+* BR / Brasil - [geojson/geojs-100-mun.json](geojson/geojs-100-mun.json)
 
 
 Fonte dos dados
