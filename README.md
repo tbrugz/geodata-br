@@ -6,8 +6,7 @@ Este projeto contém arquivos [geojson](http://geojson.org/) com os perímetros
 dos municípios brasileiros dividido por estado
 
 
-Região Norte
-------------
+### Região Norte
 * AC - geojson/geojs-12-mun.json
 * AM - geojson/geojs-13-mun.json
 * PA - geojson/geojs-15-mun.json
@@ -16,8 +15,7 @@ Região Norte
 * TO - geojson/geojs-17-mun.json
 
 
-Região Nordeste
----------------
+### Região Nordeste
 * AL - geojson/geojs-27-mun.json
 * BA - geojson/geojs-29-mun.json
 * CE - geojson/geojs-23-mun.json
@@ -29,31 +27,36 @@ Região Nordeste
 * SE - geojson/geojs-28-mun.json
 
 
-Região Sudeste
---------------
+### Região Sudeste
 * ES - geojson/geojs-32-mun.json
 * MG - geojson/geojs-31-mun.json
 * RJ - geojson/geojs-33-mun.json
 * SP - geojson/geojs-35-mun.json
 
 
-Região Sul
-----------
+### Região Sul
 * PR - geojson/geojs-41-mun.json
 * RS - geojson/geojs-43-mun.json
 * SC - geojson/geojs-42-mun.json
 
 
-Região Centro-Oeste
--------------------
-* GO - geojson/geojs-52-mun.json
-* MT - geojson/geojs-51-mun.json
-* MS - geojson/geojs-50-mun.json
+### Região Centro-Oeste
+* GO - [geojson/geojs-52-mun.json](blob/master/geojson/geojs-52-mun.json)
+* MT - [geojson/geojs-51-mun.json](blob/master/geojson/geojs-51-mun.json)
+* MS - [geojson/geojs-50-mun.json](blob/master/geojson/geojs-50-mun.json)
 
 
-Brasil
-------
-* Brasil- geojson/geojs-100-mun.json
+### Brasil
+* Brasil - [geojson/geojs-100-mun.json](geojson/geojs-100-mun.json)
 
 
-Fonte dos dados: [IBGE](http://ibge.gov.br/)
+Fonte dos dados
+---------------
+[IBGE](http://ibge.gov.br/)
+
+
+Projetos relacionados
+--------------------- 
+* https://github.com/fititnt/gis-dataset-brasil
+* https://github.com/carolinabigonha/br-atlas
+* https://github.com/luizpedone/municipal-brazilian-geodata
