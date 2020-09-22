@@ -57,6 +57,11 @@ Fonte dos dados
 [IBGE](http://ibge.gov.br/)
 
 
+Licença
+-------
+Creative Commons [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) - Dedicação ao Domínio Público. Ver arquivo [LICENSE.md](LICENSE.md)
+
+
 Projetos relacionados
 --------------------- 
 * https://github.com/fititnt/gis-dataset-brasil
