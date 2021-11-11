@@ -29,7 +29,7 @@ dos municípios brasileiros dividido por estado
 
 
 ### Região Sudeste
-* ES / Espíriro Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
+* ES / Espírito Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
 * MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
 * RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
 * SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
