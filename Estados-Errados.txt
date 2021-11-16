@@ -1,0 +1,27 @@
+ Estado = 11 , Cidades-Totais = 52 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 12 , Cidades-Totais = 22 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 13 , Cidades-Totais = 62 , Cidades erradas e seus respectivos poligonos: {'Novo Airão': 4, 'Presidente Figueiredo': 2}
+ Estado = 14 , Cidades-Totais = 15 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 15 , Cidades-Totais = 143 , Cidades erradas e seus respectivos poligonos: {'Augusto Corrêa': 6, 'Bragança': 3, 'Curuçá': 2, 'Quatipuru': 4, 'Senador José Porfírio': 2, 'Tracuateua': 2, 'Viseu': 5}
+ Estado = 16 , Cidades-Totais = 16 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 17 , Cidades-Totais = 139 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 21 , Cidades-Totais = 217 , Cidades erradas e seus respectivos poligonos: {'Alcântara': 3, 'Apicum-Açu': 9, 'Cândido Mendes': 8, 'Carutapera': 2, 'Cedral': 2, 'Cururupu': 22, 'Godofredo Viana': 10, 'Guimarães': 3, 'Luís Domingues': 8, 'Porto Rico do Maranhão': 6, 'Raposa': 2, 'Turiaçu': 4}
+ Estado = 22 , Cidades-Totais = 223 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 23 , Cidades-Totais = 184 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 24 , Cidades-Totais = 167 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 25 , Cidades-Totais = 223 , Cidades erradas e seus respectivos poligonos: {'Cabedelo': 2}
+ Estado = 26 , Cidades-Totais = 185 , Cidades erradas e seus respectivos poligonos: {'Amaraji': 2, 'Belém de Maria': 2, 'Floresta': 4, 'Ipojuca': 2, 'Primavera': 2, 'Ribeirão': 2}
+ Estado = 27 , Cidades-Totais = 102 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 28 , Cidades-Totais = 75 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 29 , Cidades-Totais = 417 , Cidades erradas e seus respectivos poligonos: {'Caravelas': 8}
+ Estado = 31 , Cidades-Totais = 853 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 32 , Cidades-Totais = 78 , Cidades erradas e seus respectivos poligonos: {'Guarapari': 9, 'Ibiraçu': 2, 'João Neiva': 2, 'Vila Velha': 13, 'Vitória': 3}
+ Estado = 33 , Cidades-Totais = 92 , Cidades erradas e seus respectivos poligonos: {'Angra dos Reis': 2, 'Itaguaí': 6, 'Macaé': 3, 'Mangaratiba': 21, 'Paraty': 37, 'Rio de Janeiro': 18}
+ Estado = 35 , Cidades-Totais = 645 , Cidades erradas e seus respectivos poligonos: {'Bertioga': 2, 'Cananéia': 2, 'Caraguatatuba': 4, 'Ilhabela': 11, 'Peruíbe': 4, 'São Pedro': 2, 'São Sebastião': 10, 'Ubatuba': 19}
+ Estado = 41 , Cidades-Totais = 399 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 42 , Cidades-Totais = 293 , Cidades erradas e seus respectivos poligonos: {}
+ Estado = 43 , Cidades-Totais = 496 , Cidades erradas e seus respectivos poligonos: {'Pelotas': 2}
+ Estado = 50 , Cidades-Totais = 78 , Cidades erradas e seus respectivos poligonos: {'Corumbá': 2}
+ Estado = 51 , Cidades-Totais = 141 , Cidades erradas e seus respectivos poligonos: {'Barra do Bugres': 2}
+ Estado = 52 , Cidades-Totais = 246 , Cidades erradas e seus respectivos poligonos: {'Mineiros': 3, "Sítio d'Abadia": 2}
+ Estado = 53 , Cidades-Totais = 1 , Cidades erradas e seus respectivos poligonos: {}
